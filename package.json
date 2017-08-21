@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "vscode": "^1.0.0",
-    "bs-platform": "bloomberg/bucklescript"
+    "bs-platform": "bucklescript/bucklescript"
   },
   "dependencies": {
     "bs-vscode": "glennsl/bs-vscode"
